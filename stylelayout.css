@@ -1,0 +1,62 @@
+.logo{
+    color: aqua;
+    font-weight: bold;
+    font-style: inherit;
+}
+.logo2{
+    color: darkgrey(125,124,123);
+    font-weight: bold;
+    font-style: inherit;
+}
+.logo.logo2{
+    display: inline;
+
+}
+.nav li{
+    color: aquamarine;
+    display: block;
+    line-height: 32px;
+    padding-top: 0px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 50px;
+    display: inline-block;
+}
+h1 {
+   color: aquamarine;
+   font-size: 2cm;
+   font-style: oblique;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+
+}
+.second{
+    display: flex;
+    justify-content: space-between;
+    margin: 1cm;
+    padding: 1cm;
+}
+#uno{
+    background-color: aquamarine;
+    color: black;
+    font-size: 0.5cm;
+    height: 300px;
+    padding: 2cm;
+}
+#do{
+    background-color: blue;
+    color: white;
+    font-size: 0.5cm;
+    padding: 2cm;
+    
+}
+#tre{
+    background-color: black;
+    color: white;
+    font-size: 0.5cm;
+    padding: 2cm;
+}
